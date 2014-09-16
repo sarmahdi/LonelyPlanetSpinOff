@@ -1,0 +1,249 @@
+<!DOCTYPE html>
+<!--
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+-->
+<html>
+
+    <head>
+        <meta http-equiv="content-type" content="text/html; charset=UTF-8">
+        <title>Lonely Planet</title>
+        <link href="static/all.css" media="screen" rel="stylesheet" type="text/css">
+        <script type="text/javascript">
+            function help_click(div, txt) {
+                if (div.innerHTML == "")
+                    div.innerHTML = "<br/>   " + txt;
+                else
+                    div.innerHTML = "";
+            }
+        </script>
+        <script type="text/javascript">
+            function ExpandCollapse(theDiv) {
+                el = document.getElementById(theDiv);
+                if (el.style.display == 'none') {
+                    el.style.display = '';
+                } else {
+                    el.style.display = 'none';
+                }
+                return false;
+            }
+        </script>
+    </head>
+    <body>
+
+
+        <div id="container">
+            <div id="header">
+                <div id="logo"></div>
+                <h1>Lonely Planet: $destinationName</h1>
+            </div>
+
+
+            <div id="wrapper">
+
+                <div id="sidebar">
+                    <div class="block">
+                        <h3>Navigation</h3>
+                        <div class="content">
+                            <div class="inner">
+                                <ul id="nav">
+                                    <!--
+                                    This is the place holder for all the navigation links
+                                    As each html has a different navigation tree
+                                    with only its children and its parents
+                                    so it has to be designed to be dynamic.
+                                    -->
+                                    $navigation
+                                 
+                                </ul>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+                <div id="main">
+                    <div class="block">
+                        <div class="secondary-navigation">
+                            <ul>
+                                <li class="first"><a href="#">$destinationName</a></li>
+                            </ul>
+                            <div class="clear"></div>
+                        </div>
+                        <div class="content">
+                            <div class="inner">
+                                <h2 title="Click on me to expand" onclick="ExpandCollapse('intro');" >
+                                Introduction
+                                </h2>
+
+                                <div id="intro"  >
+
+                                    <p>
+                                        $introduction
+                                    </p>
+
+                                </div>
+                                
+                                <h2 title="Click on me to expand"  onclick="ExpandCollapse('history');"  >
+                                    History 
+                                </h2>
+                                <div id="history"  style="display:none" >
+                                    
+                                    
+                                     $historyOverview
+                                     $histories
+                                </div>
+
+                                
+
+                                <h2 title="Click on me to expand"  onclick="ExpandCollapse('practicalInformation');">
+                                Practical Information
+                                </h2>
+
+                                <div id="practicalInformation" style="display:none">
+
+                                    <h2 title="Click on me to expand"  onclick="ExpandCollapse('healthAndSafety');">
+                                    Health And Safety
+                                    </h2>
+
+                                    <div id="healthAndSafety"  style="display:none">
+
+                                        
+                                        $beforeYouGo
+                                        
+                                        $dangersAndAnnoyances
+                                        
+                                        $inTransit
+                                        
+                                        $whileYourArethere
+
+                                    </div>
+
+
+
+
+
+
+                                   
+
+                                    <h2 title="Click on me to expand"  onclick="ExpandCollapse('moneyAndCosts');">
+                                        Money And Costs
+                                    </h2>
+                             
+                                    <div id="moneyAndCosts" style="display:none" >
+                                       
+                                        $costs
+                                       
+                                        $money
+
+                                    </div>
+                                    <p >
+
+                                    <h2 title="Click on me to expand" onclick="ExpandCollapse('visas');">
+                                        Visas
+                                    </h2>
+                                    </p>
+                                    <div id="visas"  style="display:none">
+                                        
+                                        $visasOverview
+                                        
+                                        $visasOther
+                                       
+                                        $permits
+
+                                    </div>
+
+
+
+
+
+
+                                </div>
+                                <p >  
+                                <h2 title="Click on me to expand" onclick="ExpandCollapse('transport');">Transport</h2>
+                                </p>
+                                <div id="transport"  style="display:none">
+                                    <p >
+                                    <h2 title="Click on me to expand"  onclick="ExpandCollapse('gettingAround');">
+                                        Getting Around
+                                    </h2>
+                                    </p>
+                                    <div id="gettingAround" style="display:none" >
+                                       
+                                        $gettingAroundOverview
+                                        
+                                        $gettingAroundAir
+                                       
+                                        $gettingAroundBicycle
+                                        
+                                        $gettingAroundBoat
+                                       
+                                        $gettingAroundCarAndMotorCycle
+
+                                                                              
+                                        $gettingAroundBusnTram
+                                        
+                                           $gettingAroundTrain
+
+                                      
+                                        $gettingAroundHitching
+                                       
+                                        $gettingAroundLocal
+                                        
+                                     
+
+                                    </div>
+
+
+
+
+
+
+                                    <p >
+
+                                    <h2 title="Click on me to expand"  onclick="ExpandCollapse('gettingTherenAway');">
+                                        Getting There and Away
+                                    </h2>
+                                    </p>
+                                    <div id="gettingTherenAway" style="display:none" >
+                                       
+                                        $gettingThereAndAwayOverview
+                                        
+                                        $gettingThereAir
+
+                                        $gettingThereBicycle
+                                        
+                                        $gettingThereBoat
+                                        
+                                        $gettingThereCarAndMotorCycle
+                                        
+                                        $gettingThereBusnTram
+                                        
+                                         $gettingThereTrain
+                                        
+                                        $gettingThereHitching
+                                       
+                                        $gettingThereLocal
+                                       
+                                       
+
+                                    </div>
+
+
+
+
+
+
+
+                                </div>
+
+
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+            </div>
+        </div>
+    </body>
+</html>

@@ -1,0 +1,4 @@
+com\sarm\lonelyplanet\process\TaxonomyProcessorTest.class
+com\sarm\lonelyplanet\process\DestinationProcessorTest.class
+com\sarm\lonelyplanet\common\GeoUtilsTest.class
+com\sarm\lonelyplanet\process\LPUnMarshallerTest.class

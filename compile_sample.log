@@ -1,0 +1,104 @@
+[INFO] Scanning for projects...
+[INFO] 
+[INFO] Using the builder org.apache.maven.lifecycle.internal.builder.singlethreaded.SingleThreadedBuilder with a thread count of 1
+[INFO]                                                                         
+[INFO] ------------------------------------------------------------------------
+[INFO] Building LonelyPlanet 1.0-SNAPSHOT
+[INFO] ------------------------------------------------------------------------
+[INFO] 
+[INFO] --- maven-clean-plugin:2.5:clean (default-clean) @ LonelyPlanet ---
+[INFO] Deleting C:\JavaProjects\GitSVNRepo\LonelyPlanet\target
+[INFO] 
+[INFO] --- maven-dependency-plugin:2.6:copy (default) @ LonelyPlanet ---
+[INFO] 
+[INFO] --- maven-resources-plugin:2.6:copy-resources (copy-resources) @ LonelyPlanet ---
+[INFO] Using 'UTF-8' encoding to copy filtered resources.
+[INFO] Copying 1 resource
+[INFO] 
+[INFO] --- maven-resources-plugin:2.6:resources (default-resources) @ LonelyPlanet ---
+[INFO] Using 'UTF-8' encoding to copy filtered resources.
+[INFO] Copying 9 resources
+[INFO] 
+[INFO] --- maven-compiler-plugin:3.1:compile (default-compile) @ LonelyPlanet ---
+[INFO] Changes detected - recompiling the module!
+[INFO] Compiling 13 source files to C:\JavaProjects\GitSVNRepo\LonelyPlanet\target\classes
+[INFO] 
+[INFO] --- maven-resources-plugin:2.6:testResources (default-testResources) @ LonelyPlanet ---
+[INFO] Using 'UTF-8' encoding to copy filtered resources.
+[INFO] Copying 0 resource
+[INFO] 
+[INFO] --- maven-compiler-plugin:3.1:testCompile (default-testCompile) @ LonelyPlanet ---
+[INFO] Changes detected - recompiling the module!
+[INFO] Compiling 4 source files to C:\JavaProjects\GitSVNRepo\LonelyPlanet\target\test-classes
+[INFO] 
+[INFO] --- maven-surefire-plugin:2.12.4:test (default-test) @ LonelyPlanet ---
+[INFO] Surefire report directory: C:\JavaProjects\GitSVNRepo\LonelyPlanet\target\surefire-reports
+
+-------------------------------------------------------
+ T E S T S
+-------------------------------------------------------
+Running com.sarm.lonelyplanet.common.GeoUtilsTest
+ INFO [main] (GeoUtilsTest.java:60) - GeoUtilsTest : Commencing loading test properties ...
+ INFO [main] (GeoUtilsTest.java:155) -  Testing testCreateHtmlFromTemplate
+ INFO [main] (GeoUtilsTest.java:126) -  Testing populateParents
+ INFO [main] (GeoUtilsTest.java:140) -  Testing navigateIntoChildren
+ INFO [main] (GeoUtilsTest.java:194) - Testing replaceSpaces
+ INFO [main] (GeoUtilsTest.java:113) - Testing getNodeByDestinationTitle
+ INFO [main] (GeoUtilsTest.java:100) - Tearing down GeoUtilsTest and deleting the sample_destination.html file
+Tests run: 5, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 1.528 sec
+Running com.sarm.lonelyplanet.process.DestinationProcessorTest
+ INFO [main] (DestinationProcessorTest.java:55) - DestinationProcessorTest  Commencing loading test properties ...
+DEBUG [main] (DestinationProcessorTest.java:66) - Loading properties file   .//test.properties
+ INFO [main] (DestinationProcessorTest.java:202) -  destinationList 36000
+DEBUG [main] (DestinationProcessorTest.java:205) - class org.eclipse.persistence.jaxb.JAXBContext
+ INFO [main] (DestinationProcessorTest.java:209) - Successfully created regressDestinationfile .//30000dests.xml
+ INFO [main] (DestinationProcessorTest.java:144) - Testing processDestinationByStAX30000
+ INFO [main] (DestinationProcessorTest.java:152) - Successfully Parsed  : 36000 destinations ...
+ INFO [main] (DestinationProcessorTest.java:108) -  Testing processDestinationsConcurrently
+ INFO [main] (DestinationProcessorTest.java:126) - Testing processDestinationByStAX
+ INFO [main] (DestinationProcessorTest.java:130) - parsing  .//test//sampleDestinations1.xml
+ INFO [main] (DestinationProcessorTest.java:132) - Successfully Parsed  : 4 destinations ...
+ INFO [main] (DestinationProcessorTest.java:162) - Testing testJAXBContext 
+ INFO [main] (DestinationProcessorTest.java:218) - Tearing down DestinationProcessorTest and deleting the 30000dests.xml file and .//Testhtml//  folder
+Tests run: 4, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 38.614 sec
+Running com.sarm.lonelyplanet.process.LPUnMarshallerTest
+ INFO [main] (LPUnMarshallerTest.java:44) - LPUnMarshallerTest : Commencing loading test properties ...
+ INFO [main] (LPUnMarshallerTest.java:85) -  Testing LPUnmarshaller startProcess
+DEBUG [main] (LPUnMarshaller.java:68) - Processing Taxonomy ... 
+DEBUG [main] (LPUnMarshaller.java:71) - Processing Taxonomy ... Done with 1 Nodes in Taxonomy
+DEBUG [main] (LPUnMarshaller.java:87) - Processing Destinations ... 
+DEBUG [main] (LPUnMarshaller.java:92) - Processing Destinations ... Done with 4 destinations
+ INFO [main] (LPUnMarshallerTest.java:74) - Tearing down LPUnMarshallerTest and deleting  .//Testhtml//  folder
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 4.097 sec
+Running com.sarm.lonelyplanet.process.TaxonomyProcessorTest
+ INFO [main] (TaxonomyProcessorTest.java:45) - Taxonomy Processor Test : Commencing loading test properties ...
+ INFO [main] (TaxonomyProcessorTest.java:93) - processTaxonomy
+ INFO [main] (TaxonomyProcessorTest.java:107) - setParentalHierarchy
+Tests run: 2, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.028 sec
+
+Results :
+
+Tests run: 12, Failures: 0, Errors: 0, Skipped: 0
+
+[INFO] 
+[INFO] --- maven-jar-plugin:2.4:jar (default-jar) @ LonelyPlanet ---
+[INFO] Building jar: C:\JavaProjects\GitSVNRepo\LonelyPlanet\target\LonelyPlanet-1.0-SNAPSHOT.jar
+[INFO] 
+[INFO] --- maven-jar-plugin:2.4:test-jar (default) @ LonelyPlanet ---
+[INFO] Building jar: C:\JavaProjects\GitSVNRepo\LonelyPlanet\target\LonelyPlanet-1.0-SNAPSHOT-tests.jar
+[INFO] 
+[INFO] --- maven-assembly-plugin:2.4.1:single (create-executable-jar) @ LonelyPlanet ---
+[INFO] Building jar: C:\JavaProjects\GitSVNRepo\LonelyPlanet\target\LonelyPlanet-1.0-SNAPSHOT-jar-with-dependencies.jar
+[INFO] 
+[INFO] --- maven-install-plugin:2.4:install (default-install) @ LonelyPlanet ---
+[INFO] Installing C:\JavaProjects\GitSVNRepo\LonelyPlanet\target\LonelyPlanet-1.0-SNAPSHOT.jar to C:\Users\sarm\.m2\repository\com\sarm\LonelyPlanet\1.0-SNAPSHOT\LonelyPlanet-1.0-SNAPSHOT.jar
+[INFO] Installing C:\JavaProjects\GitSVNRepo\LonelyPlanet\pom.xml to C:\Users\sarm\.m2\repository\com\sarm\LonelyPlanet\1.0-SNAPSHOT\LonelyPlanet-1.0-SNAPSHOT.pom
+[INFO] Installing C:\JavaProjects\GitSVNRepo\LonelyPlanet\target\LonelyPlanet-1.0-SNAPSHOT-tests.jar to C:\Users\sarm\.m2\repository\com\sarm\LonelyPlanet\1.0-SNAPSHOT\LonelyPlanet-1.0-SNAPSHOT-tests.jar
+[INFO] Installing C:\JavaProjects\GitSVNRepo\LonelyPlanet\target\LonelyPlanet-1.0-SNAPSHOT-jar-with-dependencies.jar to C:\Users\sarm\.m2\repository\com\sarm\LonelyPlanet\1.0-SNAPSHOT\LonelyPlanet-1.0-SNAPSHOT-jar-with-dependencies.jar
+[INFO] ------------------------------------------------------------------------
+[INFO] BUILD SUCCESS
+[INFO] ------------------------------------------------------------------------
+[INFO] Total time: 01:40 min
+[INFO] Finished at: 2014-09-15T16:05:26+10:00
+[INFO] Final Memory: 25M/153M
+[INFO] ------------------------------------------------------------------------

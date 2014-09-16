@@ -1,0 +1,492 @@
+INFO main com.sarm.lonelyplanet.process.DestinationProcessorTest - parsing  .//test//sampleDestinations1.xml
+INFO main com.sarm.lonelyplanet.process.DestinationProcessorTest - Successfully Parsed  : 4 destinations ...
+INFO main com.sarm.lonelyplanet.process.DestinationProcessorTest - Tearing down DestinationProcessorTest and deleting the 30000dests.xml file and .//Testhtml//  folder
+INFO main com.sarm.lonelyplanet.process.TaxonomyProcessorTest - Taxonomy Processor Test : Commencing loading test properties ...
+INFO main com.sarm.lonelyplanet.process.TaxonomyProcessorTest - processTaxonomy
+INFO main com.sarm.lonelyplanet.process.TaxonomyProcessorTest - setParentalHierarchy
+INFO main com.sarm.lonelyplanet.process.LPUnMarshaller - GeoUtilsTest : Commencing loading test properties ...
+INFO main com.sarm.lonelyplanet.process.LPUnMarshaller -  Testing navigateIntoChildren
+INFO main com.sarm.lonelyplanet.process.LPUnMarshaller -  Testing populateParents
+INFO main com.sarm.lonelyplanet.process.LPUnMarshaller -  Testing testCreateHtmlFromTemplate
+INFO main com.sarm.lonelyplanet.process.LPUnMarshaller - Testing getNodeByDestinationTitle
+INFO main com.sarm.lonelyplanet.process.LPUnMarshaller - Testing replaceSpaces
+INFO main com.sarm.lonelyplanet.process.LPUnMarshaller - Tearing down GeoUtilsTest and deleting the sample_destination.html file
+INFO main com.sarm.lonelyplanet.process.DestinationProcessorTest - DestinationProcessorTest  Commencing loading test properties ...
+DEBUG main com.sarm.lonelyplanet.process.DestinationProcessorTest - Loading properties file   .//test.properties
+INFO main com.sarm.lonelyplanet.process.DestinationProcessorTest -  destinationList 36000
+DEBUG main com.sarm.lonelyplanet.process.DestinationProcessorTest - class org.eclipse.persistence.jaxb.JAXBContext
+INFO main com.sarm.lonelyplanet.process.DestinationProcessorTest - Successfully created regressDestinationfile .//30000dests.xml
+INFO main com.sarm.lonelyplanet.process.DestinationProcessorTest -  Testing processDestinationsConcurrently
+INFO main com.sarm.lonelyplanet.process.DestinationProcessorTest - Testing processDestinationByStAX30000
+INFO main com.sarm.lonelyplanet.process.DestinationProcessorTest - Successfully Parsed  : 36000 destinations ...
+INFO main com.sarm.lonelyplanet.process.DestinationProcessorTest - Testing processDestinationByStAX
+INFO main com.sarm.lonelyplanet.process.DestinationProcessorTest - parsing  .//test//sampleDestinations1.xml
+INFO main com.sarm.lonelyplanet.process.DestinationProcessorTest - Successfully Parsed  : 4 destinations ...
+INFO main com.sarm.lonelyplanet.process.DestinationProcessorTest - Testing testJAXBContext 
+INFO main com.sarm.lonelyplanet.process.DestinationProcessorTest - Tearing down DestinationProcessorTest and deleting the 30000dests.xml file and .//Testhtml//  folder
+INFO main com.sarm.lonelyplanet.process.TaxonomyProcessorTest - Taxonomy Processor Test : Commencing loading test properties ...
+INFO main com.sarm.lonelyplanet.process.TaxonomyProcessorTest - setParentalHierarchy
+INFO main com.sarm.lonelyplanet.process.TaxonomyProcessorTest - processTaxonomy
+INFO main com.sarm.lonelyplanet.process.LPUnMarshaller - GeoUtilsTest : Commencing loading test properties ...
+INFO main com.sarm.lonelyplanet.process.LPUnMarshaller - Testing getNodeByDestinationTitle
+INFO main com.sarm.lonelyplanet.process.LPUnMarshaller -  Testing testCreateHtmlFromTemplate
+INFO main com.sarm.lonelyplanet.process.LPUnMarshaller -  Testing navigateIntoChildren
+INFO main com.sarm.lonelyplanet.process.LPUnMarshaller - Testing replaceSpaces
+INFO main com.sarm.lonelyplanet.process.LPUnMarshaller -  Testing populateParents
+INFO main com.sarm.lonelyplanet.process.LPUnMarshaller - Tearing down GeoUtilsTest and deleting the sample_destination.html file
+INFO main com.sarm.lonelyplanet.process.DestinationProcessorTest - DestinationProcessorTest  Commencing loading test properties ...
+DEBUG main com.sarm.lonelyplanet.process.DestinationProcessorTest - Loading properties file   .//test.properties
+INFO main com.sarm.lonelyplanet.process.DestinationProcessorTest -  destinationList 36000
+DEBUG main com.sarm.lonelyplanet.process.DestinationProcessorTest - class org.eclipse.persistence.jaxb.JAXBContext
+INFO main com.sarm.lonelyplanet.process.DestinationProcessorTest - Successfully created regressDestinationfile .//30000dests.xml
+INFO main com.sarm.lonelyplanet.process.DestinationProcessorTest -  Testing processDestinationsConcurrently
+INFO main com.sarm.lonelyplanet.process.DestinationProcessorTest - Testing processDestinationByStAX30000
+INFO main com.sarm.lonelyplanet.process.DestinationProcessorTest - Successfully Parsed  : 36000 destinations ...
+INFO main com.sarm.lonelyplanet.process.DestinationProcessorTest - Testing processDestinationByStAX
+INFO main com.sarm.lonelyplanet.process.DestinationProcessorTest - parsing  .//test//sampleDestinations1.xml
+INFO main com.sarm.lonelyplanet.process.DestinationProcessorTest - Successfully Parsed  : 4 destinations ...
+INFO main com.sarm.lonelyplanet.process.DestinationProcessorTest - Testing testJAXBContext 
+INFO main com.sarm.lonelyplanet.process.DestinationProcessorTest - Tearing down DestinationProcessorTest and deleting the 30000dests.xml file and .//Testhtml//  folder
+INFO main com.sarm.lonelyplanet.process.TaxonomyProcessorTest - Taxonomy Processor Test : Commencing loading test properties ...
+INFO main com.sarm.lonelyplanet.process.TaxonomyProcessorTest - setParentalHierarchy
+INFO main com.sarm.lonelyplanet.process.TaxonomyProcessorTest - processTaxonomy
+INFO main com.sarm.lonelyplanet.process.LPUnMarshaller - GeoUtilsTest : Commencing loading test properties ...
+INFO main com.sarm.lonelyplanet.process.LPUnMarshaller -  Testing testCreateHtmlFromTemplate
+INFO main com.sarm.lonelyplanet.process.LPUnMarshaller -  Testing navigateIntoChildren
+INFO main com.sarm.lonelyplanet.process.LPUnMarshaller - Testing replaceSpaces
+INFO main com.sarm.lonelyplanet.process.LPUnMarshaller -  Testing populateParents
+INFO main com.sarm.lonelyplanet.process.LPUnMarshaller - Testing getNodeByDestinationTitle
+INFO main com.sarm.lonelyplanet.process.LPUnMarshaller - Tearing down GeoUtilsTest and deleting the sample_destination.html file
+INFO main com.sarm.lonelyplanet.process.DestinationProcessorTest - DestinationProcessorTest  Commencing loading test properties ...
+DEBUG main com.sarm.lonelyplanet.process.DestinationProcessorTest - Loading properties file   .//test.properties
+INFO main com.sarm.lonelyplanet.process.DestinationProcessorTest -  destinationList 36000
+DEBUG main com.sarm.lonelyplanet.process.DestinationProcessorTest - class org.eclipse.persistence.jaxb.JAXBContext
+INFO main com.sarm.lonelyplanet.process.DestinationProcessorTest - Successfully created regressDestinationfile .//30000dests.xml
+INFO main com.sarm.lonelyplanet.process.DestinationProcessorTest -  Testing processDestinationsConcurrently
+INFO main com.sarm.lonelyplanet.process.DestinationProcessorTest - Testing processDestinationByStAX30000
+INFO main com.sarm.lonelyplanet.process.DestinationProcessorTest - Successfully Parsed  : 36000 destinations ...
+INFO main com.sarm.lonelyplanet.process.DestinationProcessorTest - Testing testJAXBContext 
+INFO main com.sarm.lonelyplanet.process.DestinationProcessorTest - Testing processDestinationByStAX
+INFO main com.sarm.lonelyplanet.process.DestinationProcessorTest - parsing  .//test//sampleDestinations1.xml
+INFO main com.sarm.lonelyplanet.process.DestinationProcessorTest - Successfully Parsed  : 4 destinations ...
+INFO main com.sarm.lonelyplanet.process.DestinationProcessorTest - Tearing down DestinationProcessorTest and deleting the 30000dests.xml file and .//Testhtml//  folder
+INFO main com.sarm.lonelyplanet.process.TaxonomyProcessorTest - Taxonomy Processor Test : Commencing loading test properties ...
+INFO main com.sarm.lonelyplanet.process.TaxonomyProcessorTest - processTaxonomy
+INFO main com.sarm.lonelyplanet.process.TaxonomyProcessorTest - setParentalHierarchy
+INFO main com.sarm.lonelyplanet.process.LPUnMarshaller - GeoUtilsTest : Commencing loading test properties ...
+INFO main com.sarm.lonelyplanet.process.LPUnMarshaller - Testing replaceSpaces
+INFO main com.sarm.lonelyplanet.process.LPUnMarshaller - Testing getNodeByDestinationTitle
+INFO main com.sarm.lonelyplanet.process.LPUnMarshaller -  Testing navigateIntoChildren
+INFO main com.sarm.lonelyplanet.process.LPUnMarshaller -  Testing populateParents
+INFO main com.sarm.lonelyplanet.process.LPUnMarshaller -  Testing testCreateHtmlFromTemplate
+INFO main com.sarm.lonelyplanet.process.LPUnMarshaller - Tearing down GeoUtilsTest and deleting the sample_destination.html file
+INFO main com.sarm.lonelyplanet.process.DestinationProcessorTest - DestinationProcessorTest  Commencing loading test properties ...
+DEBUG main com.sarm.lonelyplanet.process.DestinationProcessorTest - Loading properties file   .//test.properties
+INFO main com.sarm.lonelyplanet.process.DestinationProcessorTest -  destinationList 36000
+DEBUG main com.sarm.lonelyplanet.process.DestinationProcessorTest - class org.eclipse.persistence.jaxb.JAXBContext
+INFO main com.sarm.lonelyplanet.process.DestinationProcessorTest - Successfully created regressDestinationfile .//30000dests.xml
+INFO main com.sarm.lonelyplanet.process.DestinationProcessorTest - Testing processDestinationByStAX30000
+INFO main com.sarm.lonelyplanet.process.DestinationProcessorTest - Successfully Parsed  : 36000 destinations ...
+INFO main com.sarm.lonelyplanet.process.DestinationProcessorTest -  Testing processDestinationsConcurrently
+INFO main com.sarm.lonelyplanet.process.DestinationProcessorTest - Testing processDestinationByStAX
+INFO main com.sarm.lonelyplanet.process.DestinationProcessorTest - parsing  .//test//sampleDestinations1.xml
+INFO main com.sarm.lonelyplanet.process.DestinationProcessorTest - Successfully Parsed  : 4 destinations ...
+INFO main com.sarm.lonelyplanet.process.DestinationProcessorTest - Testing testJAXBContext 
+INFO main com.sarm.lonelyplanet.process.DestinationProcessorTest - Tearing down DestinationProcessorTest and deleting the 30000dests.xml file and .//Testhtml//  folder
+INFO main com.sarm.lonelyplanet.process.TaxonomyProcessorTest - Taxonomy Processor Test : Commencing loading test properties ...
+INFO main com.sarm.lonelyplanet.process.TaxonomyProcessorTest - processTaxonomy
+INFO main com.sarm.lonelyplanet.process.TaxonomyProcessorTest - setParentalHierarchy
+INFO main com.sarm.lonelyplanet.process.LPUnMarshaller - GeoUtilsTest : Commencing loading test properties ...
+INFO main com.sarm.lonelyplanet.process.LPUnMarshaller -  Testing testCreateHtmlFromTemplate
+INFO main com.sarm.lonelyplanet.process.LPUnMarshaller - Testing replaceSpaces
+INFO main com.sarm.lonelyplanet.process.LPUnMarshaller -  Testing navigateIntoChildren
+INFO main com.sarm.lonelyplanet.process.LPUnMarshaller -  Testing populateParents
+INFO main com.sarm.lonelyplanet.process.LPUnMarshaller - Testing getNodeByDestinationTitle
+INFO main com.sarm.lonelyplanet.process.LPUnMarshaller - Tearing down GeoUtilsTest and deleting the sample_destination.html file
+INFO main com.sarm.lonelyplanet.process.DestinationProcessorTest - DestinationProcessorTest  Commencing loading test properties ...
+DEBUG main com.sarm.lonelyplanet.process.DestinationProcessorTest - Loading properties file   .//test.properties
+INFO main com.sarm.lonelyplanet.process.DestinationProcessorTest -  destinationList 36000
+DEBUG main com.sarm.lonelyplanet.process.DestinationProcessorTest - class org.eclipse.persistence.jaxb.JAXBContext
+INFO main com.sarm.lonelyplanet.process.DestinationProcessorTest - Successfully created regressDestinationfile .//30000dests.xml
+INFO main com.sarm.lonelyplanet.process.DestinationProcessorTest -  Testing processDestinationsConcurrently
+INFO main com.sarm.lonelyplanet.process.DestinationProcessorTest - Testing processDestinationByStAX30000
+INFO main com.sarm.lonelyplanet.process.DestinationProcessorTest - Successfully Parsed  : 36000 destinations ...
+INFO main com.sarm.lonelyplanet.process.DestinationProcessorTest - Testing testJAXBContext 
+INFO main com.sarm.lonelyplanet.process.DestinationProcessorTest - Testing processDestinationByStAX
+INFO main com.sarm.lonelyplanet.process.DestinationProcessorTest - parsing  .//test//sampleDestinations1.xml
+INFO main com.sarm.lonelyplanet.process.DestinationProcessorTest - Successfully Parsed  : 4 destinations ...
+INFO main com.sarm.lonelyplanet.process.DestinationProcessorTest - Tearing down DestinationProcessorTest and deleting the 30000dests.xml file and .//Testhtml//  folder
+INFO main com.sarm.lonelyplanet.process.TaxonomyProcessorTest - Taxonomy Processor Test : Commencing loading test properties ...
+INFO main com.sarm.lonelyplanet.process.TaxonomyProcessorTest - processTaxonomy
+INFO main com.sarm.lonelyplanet.process.TaxonomyProcessorTest - setParentalHierarchy
+INFO main com.sarm.lonelyplanet.process.LPUnMarshaller - GeoUtilsTest : Commencing loading test properties ...
+INFO main com.sarm.lonelyplanet.process.LPUnMarshaller - Testing getNodeByDestinationTitle
+INFO main com.sarm.lonelyplanet.process.LPUnMarshaller -  Testing navigateIntoChildren
+INFO main com.sarm.lonelyplanet.process.LPUnMarshaller -  Testing testCreateHtmlFromTemplate
+INFO main com.sarm.lonelyplanet.process.LPUnMarshaller - Testing replaceSpaces
+INFO main com.sarm.lonelyplanet.process.LPUnMarshaller -  Testing populateParents
+INFO main com.sarm.lonelyplanet.process.LPUnMarshaller - Tearing down GeoUtilsTest and deleting the sample_destination.html file
+INFO main com.sarm.lonelyplanet.process.DestinationProcessorTest - DestinationProcessorTest  Commencing loading test properties ...
+DEBUG main com.sarm.lonelyplanet.process.DestinationProcessorTest - Loading properties file   .//test.properties
+INFO main com.sarm.lonelyplanet.process.DestinationProcessorTest -  destinationList 36000
+DEBUG main com.sarm.lonelyplanet.process.DestinationProcessorTest - class org.eclipse.persistence.jaxb.JAXBContext
+INFO main com.sarm.lonelyplanet.process.DestinationProcessorTest - Successfully created regressDestinationfile .//30000dests.xml
+INFO main com.sarm.lonelyplanet.process.DestinationProcessorTest - Testing processDestinationByStAX30000
+INFO main com.sarm.lonelyplanet.process.DestinationProcessorTest - Successfully Parsed  : 36000 destinations ...
+INFO main com.sarm.lonelyplanet.process.DestinationProcessorTest -  Testing processDestinationsConcurrently
+INFO main com.sarm.lonelyplanet.process.DestinationProcessorTest - Testing processDestinationByStAX
+INFO main com.sarm.lonelyplanet.process.DestinationProcessorTest - parsing  .//test//sampleDestinations1.xml
+INFO main com.sarm.lonelyplanet.process.DestinationProcessorTest - Successfully Parsed  : 4 destinations ...
+INFO main com.sarm.lonelyplanet.process.DestinationProcessorTest - Testing testJAXBContext 
+INFO main com.sarm.lonelyplanet.process.DestinationProcessorTest - Tearing down DestinationProcessorTest and deleting the 30000dests.xml file and .//Testhtml//  folder
+INFO main com.sarm.lonelyplanet.process.TaxonomyProcessorTest - Taxonomy Processor Test : Commencing loading test properties ...
+INFO main com.sarm.lonelyplanet.process.TaxonomyProcessorTest - setParentalHierarchy
+INFO main com.sarm.lonelyplanet.process.TaxonomyProcessorTest - processTaxonomy
+INFO main com.sarm.lonelyplanet.process.LPUnMarshaller - GeoUtilsTest : Commencing loading test properties ...
+INFO main com.sarm.lonelyplanet.process.LPUnMarshaller -  Testing navigateIntoChildren
+INFO main com.sarm.lonelyplanet.process.LPUnMarshaller -  Testing testCreateHtmlFromTemplate
+INFO main com.sarm.lonelyplanet.process.LPUnMarshaller - Testing getNodeByDestinationTitle
+INFO main com.sarm.lonelyplanet.process.LPUnMarshaller - Testing replaceSpaces
+INFO main com.sarm.lonelyplanet.process.LPUnMarshaller -  Testing populateParents
+INFO main com.sarm.lonelyplanet.process.LPUnMarshaller - Tearing down GeoUtilsTest and deleting the sample_destination.html file
+INFO main com.sarm.lonelyplanet.process.DestinationProcessorTest - DestinationProcessorTest  Commencing loading test properties ...
+DEBUG main com.sarm.lonelyplanet.process.DestinationProcessorTest - Loading properties file   .//test.properties
+INFO main com.sarm.lonelyplanet.process.DestinationProcessorTest -  destinationList 36000
+DEBUG main com.sarm.lonelyplanet.process.DestinationProcessorTest - class org.eclipse.persistence.jaxb.JAXBContext
+INFO main com.sarm.lonelyplanet.process.DestinationProcessorTest - Successfully created regressDestinationfile .//30000dests.xml
+INFO main com.sarm.lonelyplanet.process.DestinationProcessorTest - Testing processDestinationByStAX30000
+INFO main com.sarm.lonelyplanet.process.DestinationProcessorTest - Successfully Parsed  : 36000 destinations ...
+INFO main com.sarm.lonelyplanet.process.DestinationProcessorTest -  Testing processDestinationsConcurrently
+INFO main com.sarm.lonelyplanet.process.DestinationProcessorTest - Testing testJAXBContext 
+INFO main com.sarm.lonelyplanet.process.DestinationProcessorTest - Testing processDestinationByStAX
+INFO main com.sarm.lonelyplanet.process.DestinationProcessorTest - parsing  .//test//sampleDestinations1.xml
+INFO main com.sarm.lonelyplanet.process.DestinationProcessorTest - Successfully Parsed  : 4 destinations ...
+INFO main com.sarm.lonelyplanet.process.DestinationProcessorTest - Tearing down DestinationProcessorTest and deleting the 30000dests.xml file and .//Testhtml//  folder
+INFO main com.sarm.lonelyplanet.process.TaxonomyProcessorTest - Taxonomy Processor Test : Commencing loading test properties ...
+INFO main com.sarm.lonelyplanet.process.TaxonomyProcessorTest - setParentalHierarchy
+INFO main com.sarm.lonelyplanet.process.TaxonomyProcessorTest - processTaxonomy
+INFO main com.sarm.lonelyplanet.process.LPUnMarshaller - GeoUtilsTest : Commencing loading test properties ...
+INFO main com.sarm.lonelyplanet.process.LPUnMarshaller -  Testing testCreateHtmlFromTemplate
+INFO main com.sarm.lonelyplanet.process.LPUnMarshaller - Testing getNodeByDestinationTitle
+INFO main com.sarm.lonelyplanet.process.LPUnMarshaller - Testing replaceSpaces
+INFO main com.sarm.lonelyplanet.process.LPUnMarshaller -  Testing populateParents
+INFO main com.sarm.lonelyplanet.process.LPUnMarshaller -  Testing navigateIntoChildren
+INFO main com.sarm.lonelyplanet.process.LPUnMarshaller - Tearing down GeoUtilsTest and deleting the sample_destination.html file
+INFO main com.sarm.lonelyplanet.process.DestinationProcessorTest - DestinationProcessorTest  Commencing loading test properties ...
+DEBUG main com.sarm.lonelyplanet.process.DestinationProcessorTest - Loading properties file   .//test.properties
+INFO main com.sarm.lonelyplanet.process.DestinationProcessorTest -  destinationList 36000
+DEBUG main com.sarm.lonelyplanet.process.DestinationProcessorTest - class org.eclipse.persistence.jaxb.JAXBContext
+INFO main com.sarm.lonelyplanet.process.DestinationProcessorTest - Successfully created regressDestinationfile .//30000dests.xml
+INFO main com.sarm.lonelyplanet.process.DestinationProcessorTest - Testing processDestinationByStAX30000
+INFO main com.sarm.lonelyplanet.process.DestinationProcessorTest - Successfully Parsed  : 36000 destinations ...
+INFO main com.sarm.lonelyplanet.process.DestinationProcessorTest -  Testing processDestinationsConcurrently
+INFO main com.sarm.lonelyplanet.process.DestinationProcessorTest - Testing testJAXBContext 
+INFO main com.sarm.lonelyplanet.process.DestinationProcessorTest - Testing processDestinationByStAX
+INFO main com.sarm.lonelyplanet.process.DestinationProcessorTest - parsing  .//test//sampleDestinations1.xml
+INFO main com.sarm.lonelyplanet.process.DestinationProcessorTest - Successfully Parsed  : 4 destinations ...
+INFO main com.sarm.lonelyplanet.process.DestinationProcessorTest - Tearing down DestinationProcessorTest and deleting the 30000dests.xml file and .//Testhtml//  folder
+INFO main com.sarm.lonelyplanet.process.TaxonomyProcessorTest - Taxonomy Processor Test : Commencing loading test properties ...
+INFO main com.sarm.lonelyplanet.process.TaxonomyProcessorTest - processTaxonomy
+INFO main com.sarm.lonelyplanet.process.TaxonomyProcessorTest - setParentalHierarchy
+INFO main com.sarm.lonelyplanet.process.LPUnMarshaller - GeoUtilsTest : Commencing loading test properties ...
+INFO main com.sarm.lonelyplanet.process.LPUnMarshaller - Testing getNodeByDestinationTitle
+INFO main com.sarm.lonelyplanet.process.LPUnMarshaller -  Testing navigateIntoChildren
+INFO main com.sarm.lonelyplanet.process.LPUnMarshaller -  Testing testCreateHtmlFromTemplate
+INFO main com.sarm.lonelyplanet.process.LPUnMarshaller - Testing replaceSpaces
+INFO main com.sarm.lonelyplanet.process.LPUnMarshaller -  Testing populateParents
+INFO main com.sarm.lonelyplanet.process.LPUnMarshaller - Tearing down GeoUtilsTest and deleting the sample_destination.html file
+INFO main com.sarm.lonelyplanet.process.DestinationProcessorTest - DestinationProcessorTest  Commencing loading test properties ...
+DEBUG main com.sarm.lonelyplanet.process.DestinationProcessorTest - Loading properties file   .//test.properties
+INFO main com.sarm.lonelyplanet.process.DestinationProcessorTest -  destinationList 36000
+DEBUG main com.sarm.lonelyplanet.process.DestinationProcessorTest - class org.eclipse.persistence.jaxb.JAXBContext
+INFO main com.sarm.lonelyplanet.process.DestinationProcessorTest - Successfully created regressDestinationfile .//30000dests.xml
+INFO main com.sarm.lonelyplanet.process.DestinationProcessorTest - Testing processDestinationByStAX
+INFO main com.sarm.lonelyplanet.process.DestinationProcessorTest - parsing  .//test//sampleDestinations1.xml
+INFO main com.sarm.lonelyplanet.process.DestinationProcessorTest - Successfully Parsed  : 4 destinations ...
+INFO main com.sarm.lonelyplanet.process.DestinationProcessorTest - Testing testJAXBContext 
+INFO main com.sarm.lonelyplanet.process.DestinationProcessorTest -  Testing processDestinationsConcurrently
+INFO main com.sarm.lonelyplanet.process.DestinationProcessorTest - Testing processDestinationByStAX30000
+INFO main com.sarm.lonelyplanet.process.DestinationProcessorTest - Successfully Parsed  : 36000 destinations ...
+INFO main com.sarm.lonelyplanet.process.DestinationProcessorTest - Tearing down DestinationProcessorTest and deleting the 30000dests.xml file and .//Testhtml//  folder
+INFO main com.sarm.lonelyplanet.process.TaxonomyProcessorTest - Taxonomy Processor Test : Commencing loading test properties ...
+INFO main com.sarm.lonelyplanet.process.TaxonomyProcessorTest - processTaxonomy
+INFO main com.sarm.lonelyplanet.process.TaxonomyProcessorTest - setParentalHierarchy
+INFO main com.sarm.lonelyplanet.process.LPUnMarshaller - GeoUtilsTest : Commencing loading test properties ...
+INFO main com.sarm.lonelyplanet.process.LPUnMarshaller -  Testing testCreateHtmlFromTemplate
+INFO main com.sarm.lonelyplanet.process.LPUnMarshaller - Testing getNodeByDestinationTitle
+INFO main com.sarm.lonelyplanet.process.LPUnMarshaller - Testing replaceSpaces
+INFO main com.sarm.lonelyplanet.process.LPUnMarshaller -  Testing navigateIntoChildren
+INFO main com.sarm.lonelyplanet.process.LPUnMarshaller -  Testing populateParents
+INFO main com.sarm.lonelyplanet.process.LPUnMarshaller - Tearing down GeoUtilsTest and deleting the sample_destination.html file
+INFO main com.sarm.lonelyplanet.process.DestinationProcessorTest - DestinationProcessorTest  Commencing loading test properties ...
+DEBUG main com.sarm.lonelyplanet.process.DestinationProcessorTest - Loading properties file   .//test.properties
+INFO main com.sarm.lonelyplanet.process.DestinationProcessorTest -  destinationList 36000
+DEBUG main com.sarm.lonelyplanet.process.DestinationProcessorTest - class org.eclipse.persistence.jaxb.JAXBContext
+INFO main com.sarm.lonelyplanet.process.DestinationProcessorTest - Successfully created regressDestinationfile .//30000dests.xml
+INFO main com.sarm.lonelyplanet.process.DestinationProcessorTest -  Testing processDestinationsConcurrently
+INFO main com.sarm.lonelyplanet.process.DestinationProcessorTest - Testing processDestinationByStAX30000
+INFO main com.sarm.lonelyplanet.process.DestinationProcessorTest - Successfully Parsed  : 36000 destinations ...
+INFO main com.sarm.lonelyplanet.process.DestinationProcessorTest - Testing processDestinationByStAX
+INFO main com.sarm.lonelyplanet.process.DestinationProcessorTest - parsing  .//test//sampleDestinations1.xml
+INFO main com.sarm.lonelyplanet.process.DestinationProcessorTest - Successfully Parsed  : 4 destinations ...
+INFO main com.sarm.lonelyplanet.process.DestinationProcessorTest - Testing testJAXBContext 
+INFO main com.sarm.lonelyplanet.process.DestinationProcessorTest - Tearing down DestinationProcessorTest and deleting the 30000dests.xml file and .//Testhtml//  folder
+INFO main com.sarm.lonelyplanet.process.TaxonomyProcessorTest - Taxonomy Processor Test : Commencing loading test properties ...
+INFO main com.sarm.lonelyplanet.process.TaxonomyProcessorTest - processTaxonomy
+INFO main com.sarm.lonelyplanet.process.TaxonomyProcessorTest - setParentalHierarchy
+INFO main com.sarm.lonelyplanet.process.LPUnMarshaller - GeoUtilsTest : Commencing loading test properties ...
+INFO main com.sarm.lonelyplanet.process.LPUnMarshaller -  Testing navigateIntoChildren
+INFO main com.sarm.lonelyplanet.process.LPUnMarshaller -  Testing testCreateHtmlFromTemplate
+INFO main com.sarm.lonelyplanet.process.LPUnMarshaller - Testing getNodeByDestinationTitle
+INFO main com.sarm.lonelyplanet.process.LPUnMarshaller - Testing replaceSpaces
+INFO main com.sarm.lonelyplanet.process.LPUnMarshaller -  Testing populateParents
+INFO main com.sarm.lonelyplanet.process.LPUnMarshaller - Tearing down GeoUtilsTest and deleting the sample_destination.html file
+INFO main com.sarm.lonelyplanet.process.DestinationProcessorTest - DestinationProcessorTest  Commencing loading test properties ...
+DEBUG main com.sarm.lonelyplanet.process.DestinationProcessorTest - Loading properties file   .//test.properties
+INFO main com.sarm.lonelyplanet.process.DestinationProcessorTest -  destinationList 36000
+DEBUG main com.sarm.lonelyplanet.process.DestinationProcessorTest - class org.eclipse.persistence.jaxb.JAXBContext
+INFO main com.sarm.lonelyplanet.process.DestinationProcessorTest - Successfully created regressDestinationfile .//30000dests.xml
+INFO main com.sarm.lonelyplanet.process.DestinationProcessorTest - Testing testJAXBContext 
+INFO main com.sarm.lonelyplanet.process.DestinationProcessorTest - Testing processDestinationByStAX
+INFO main com.sarm.lonelyplanet.process.DestinationProcessorTest - parsing  .//test//sampleDestinations1.xml
+INFO main com.sarm.lonelyplanet.process.DestinationProcessorTest - Successfully Parsed  : 4 destinations ...
+INFO main com.sarm.lonelyplanet.process.DestinationProcessorTest -  Testing processDestinationsConcurrently
+INFO main com.sarm.lonelyplanet.process.DestinationProcessorTest - Testing processDestinationByStAX30000
+INFO main com.sarm.lonelyplanet.process.DestinationProcessorTest - Successfully Parsed  : 36000 destinations ...
+INFO main com.sarm.lonelyplanet.process.DestinationProcessorTest - Tearing down DestinationProcessorTest and deleting the 30000dests.xml file and .//Testhtml//  folder
+INFO main com.sarm.lonelyplanet.process.TaxonomyProcessorTest - Taxonomy Processor Test : Commencing loading test properties ...
+INFO main com.sarm.lonelyplanet.process.TaxonomyProcessorTest - processTaxonomy
+INFO main com.sarm.lonelyplanet.process.TaxonomyProcessorTest - setParentalHierarchy
+INFO main com.sarm.lonelyplanet.process.LPUnMarshaller - GeoUtilsTest : Commencing loading test properties ...
+INFO main com.sarm.lonelyplanet.process.LPUnMarshaller - Testing getNodeByDestinationTitle
+INFO main com.sarm.lonelyplanet.process.LPUnMarshaller -  Testing testCreateHtmlFromTemplate
+INFO main com.sarm.lonelyplanet.process.LPUnMarshaller - Testing replaceSpaces
+INFO main com.sarm.lonelyplanet.process.LPUnMarshaller -  Testing navigateIntoChildren
+INFO main com.sarm.lonelyplanet.process.LPUnMarshaller -  Testing populateParents
+INFO main com.sarm.lonelyplanet.process.LPUnMarshaller - Tearing down GeoUtilsTest and deleting the sample_destination.html file
+INFO main com.sarm.lonelyplanet.process.DestinationProcessorTest - DestinationProcessorTest  Commencing loading test properties ...
+DEBUG main com.sarm.lonelyplanet.process.DestinationProcessorTest - Loading properties file   .//test.properties
+INFO main com.sarm.lonelyplanet.process.DestinationProcessorTest -  destinationList 36000
+DEBUG main com.sarm.lonelyplanet.process.DestinationProcessorTest - class org.eclipse.persistence.jaxb.JAXBContext
+INFO main com.sarm.lonelyplanet.process.DestinationProcessorTest - Successfully created regressDestinationfile .//30000dests.xml
+INFO main com.sarm.lonelyplanet.process.DestinationProcessorTest - Testing processDestinationByStAX30000
+INFO main com.sarm.lonelyplanet.process.DestinationProcessorTest - Successfully Parsed  : 36000 destinations ...
+INFO main com.sarm.lonelyplanet.process.DestinationProcessorTest -  Testing processDestinationsConcurrently
+INFO main com.sarm.lonelyplanet.process.DestinationProcessorTest - Testing testJAXBContext 
+INFO main com.sarm.lonelyplanet.process.DestinationProcessorTest - Testing processDestinationByStAX
+INFO main com.sarm.lonelyplanet.process.DestinationProcessorTest - parsing  .//test//sampleDestinations1.xml
+INFO main com.sarm.lonelyplanet.process.DestinationProcessorTest - Successfully Parsed  : 4 destinations ...
+INFO main com.sarm.lonelyplanet.process.DestinationProcessorTest - Tearing down DestinationProcessorTest and deleting the 30000dests.xml file and .//Testhtml//  folder
+INFO main com.sarm.lonelyplanet.process.TaxonomyProcessorTest - Taxonomy Processor Test : Commencing loading test properties ...
+INFO main com.sarm.lonelyplanet.process.TaxonomyProcessorTest - setParentalHierarchy
+INFO main com.sarm.lonelyplanet.process.TaxonomyProcessorTest - processTaxonomy
+INFO main com.sarm.lonelyplanet.process.LPUnMarshaller - GeoUtilsTest : Commencing loading test properties ...
+INFO main com.sarm.lonelyplanet.process.LPUnMarshaller -  Testing populateParents
+INFO main com.sarm.lonelyplanet.process.LPUnMarshaller -  Testing navigateIntoChildren
+INFO main com.sarm.lonelyplanet.process.LPUnMarshaller - Testing getNodeByDestinationTitle
+INFO main com.sarm.lonelyplanet.process.LPUnMarshaller -  Testing testCreateHtmlFromTemplate
+INFO main com.sarm.lonelyplanet.process.LPUnMarshaller - Testing replaceSpaces
+INFO main com.sarm.lonelyplanet.process.LPUnMarshaller - Tearing down GeoUtilsTest and deleting the sample_destination.html file
+INFO main com.sarm.lonelyplanet.process.DestinationProcessorTest - DestinationProcessorTest  Commencing loading test properties ...
+DEBUG main com.sarm.lonelyplanet.process.DestinationProcessorTest - Loading properties file   .//test.properties
+INFO main com.sarm.lonelyplanet.process.DestinationProcessorTest -  destinationList 36000
+DEBUG main com.sarm.lonelyplanet.process.DestinationProcessorTest - class org.eclipse.persistence.jaxb.JAXBContext
+INFO main com.sarm.lonelyplanet.process.DestinationProcessorTest - Successfully created regressDestinationfile .//30000dests.xml
+INFO main com.sarm.lonelyplanet.process.DestinationProcessorTest - Testing processDestinationByStAX30000
+INFO main com.sarm.lonelyplanet.process.DestinationProcessorTest - Successfully Parsed  : 36000 destinations ...
+INFO main com.sarm.lonelyplanet.process.DestinationProcessorTest -  Testing processDestinationsConcurrently
+INFO main com.sarm.lonelyplanet.process.DestinationProcessorTest - Testing testJAXBContext 
+INFO main com.sarm.lonelyplanet.process.DestinationProcessorTest - Testing processDestinationByStAX
+INFO main com.sarm.lonelyplanet.process.DestinationProcessorTest - parsing  .//test//sampleDestinations1.xml
+INFO main com.sarm.lonelyplanet.process.DestinationProcessorTest - Successfully Parsed  : 4 destinations ...
+INFO main com.sarm.lonelyplanet.process.DestinationProcessorTest - Tearing down DestinationProcessorTest and deleting the 30000dests.xml file and .//Testhtml//  folder
+INFO main com.sarm.lonelyplanet.process.LPUnMarshallerTest - GeoUtilsTest : Commencing loading test properties ...
+DEBUG main com.sarm.lonelyplanet.process.LPUnMarshaller - Processing Taxonomy ... 
+DEBUG main com.sarm.lonelyplanet.process.LPUnMarshaller - Passed in taxonomyFileName was not valid, defaulting to local file ..
+FATAL main com.sarm.lonelyplanet.process.LPUnMarshaller - IOException  caught ...
+INFO main com.sarm.lonelyplanet.process.LPUnMarshallerTest - Tearing down LPUnMarshallerTest and deleting  .//Testhtml//  folder
+INFO main com.sarm.lonelyplanet.process.TaxonomyProcessorTest - Taxonomy Processor Test : Commencing loading test properties ...
+INFO main com.sarm.lonelyplanet.process.TaxonomyProcessorTest - setParentalHierarchy
+INFO main com.sarm.lonelyplanet.process.TaxonomyProcessorTest - processTaxonomy
+INFO main com.sarm.lonelyplanet.process.LPUnMarshaller - GeoUtilsTest : Commencing loading test properties ...
+INFO main com.sarm.lonelyplanet.process.LPUnMarshaller - Testing getNodeByDestinationTitle
+INFO main com.sarm.lonelyplanet.process.LPUnMarshaller -  Testing populateParents
+INFO main com.sarm.lonelyplanet.process.LPUnMarshaller -  Testing testCreateHtmlFromTemplate
+INFO main com.sarm.lonelyplanet.process.LPUnMarshaller -  Testing navigateIntoChildren
+INFO main com.sarm.lonelyplanet.process.LPUnMarshaller - Testing replaceSpaces
+INFO main com.sarm.lonelyplanet.process.LPUnMarshaller - Tearing down GeoUtilsTest and deleting the sample_destination.html file
+INFO main com.sarm.lonelyplanet.process.DestinationProcessorTest - DestinationProcessorTest  Commencing loading test properties ...
+DEBUG main com.sarm.lonelyplanet.process.DestinationProcessorTest - Loading properties file   .//test.properties
+INFO main com.sarm.lonelyplanet.process.DestinationProcessorTest -  destinationList 36000
+DEBUG main com.sarm.lonelyplanet.process.DestinationProcessorTest - class org.eclipse.persistence.jaxb.JAXBContext
+INFO main com.sarm.lonelyplanet.process.DestinationProcessorTest - Successfully created regressDestinationfile .//30000dests.xml
+INFO main com.sarm.lonelyplanet.process.DestinationProcessorTest -  Testing processDestinationsConcurrently
+INFO main com.sarm.lonelyplanet.process.DestinationProcessorTest - Testing processDestinationByStAX30000
+INFO main com.sarm.lonelyplanet.process.DestinationProcessorTest - Successfully Parsed  : 36000 destinations ...
+INFO main com.sarm.lonelyplanet.process.DestinationProcessorTest - Testing processDestinationByStAX
+INFO main com.sarm.lonelyplanet.process.DestinationProcessorTest - parsing  .//test//sampleDestinations1.xml
+INFO main com.sarm.lonelyplanet.process.DestinationProcessorTest - Successfully Parsed  : 4 destinations ...
+INFO main com.sarm.lonelyplanet.process.DestinationProcessorTest - Testing testJAXBContext 
+INFO main com.sarm.lonelyplanet.process.DestinationProcessorTest - Tearing down DestinationProcessorTest and deleting the 30000dests.xml file and .//Testhtml//  folder
+INFO main com.sarm.lonelyplanet.process.LPUnMarshallerTest - LPUnMarshallerTest : Commencing loading test properties ...
+INFO main com.sarm.lonelyplanet.process.LPUnMarshallerTest -  Testing LPUnmarshaller startProcess
+DEBUG main com.sarm.lonelyplanet.process.LPUnMarshaller - Processing Taxonomy ... 
+DEBUG main com.sarm.lonelyplanet.process.LPUnMarshaller - Passed in taxonomyFileName was not valid, defaulting to local file ..
+FATAL main com.sarm.lonelyplanet.process.LPUnMarshaller - IOException  caught ...
+INFO main com.sarm.lonelyplanet.process.LPUnMarshallerTest - Tearing down LPUnMarshallerTest and deleting  .//Testhtml//  folder
+INFO main com.sarm.lonelyplanet.process.TaxonomyProcessorTest - Taxonomy Processor Test : Commencing loading test properties ...
+INFO main com.sarm.lonelyplanet.process.TaxonomyProcessorTest - processTaxonomy
+INFO main com.sarm.lonelyplanet.process.TaxonomyProcessorTest - setParentalHierarchy
+INFO main com.sarm.lonelyplanet.process.LPUnMarshaller - GeoUtilsTest : Commencing loading test properties ...
+INFO main com.sarm.lonelyplanet.process.LPUnMarshaller -  Testing testCreateHtmlFromTemplate
+INFO main com.sarm.lonelyplanet.process.LPUnMarshaller - Testing replaceSpaces
+INFO main com.sarm.lonelyplanet.process.LPUnMarshaller -  Testing populateParents
+INFO main com.sarm.lonelyplanet.process.LPUnMarshaller -  Testing navigateIntoChildren
+INFO main com.sarm.lonelyplanet.process.LPUnMarshaller - Testing getNodeByDestinationTitle
+INFO main com.sarm.lonelyplanet.process.LPUnMarshaller - Tearing down GeoUtilsTest and deleting the sample_destination.html file
+INFO main com.sarm.lonelyplanet.process.DestinationProcessorTest - DestinationProcessorTest  Commencing loading test properties ...
+DEBUG main com.sarm.lonelyplanet.process.DestinationProcessorTest - Loading properties file   .//test.properties
+INFO main com.sarm.lonelyplanet.process.DestinationProcessorTest -  destinationList 36000
+DEBUG main com.sarm.lonelyplanet.process.DestinationProcessorTest - class org.eclipse.persistence.jaxb.JAXBContext
+INFO main com.sarm.lonelyplanet.process.DestinationProcessorTest - Successfully created regressDestinationfile .//30000dests.xml
+INFO main com.sarm.lonelyplanet.process.DestinationProcessorTest - Testing processDestinationByStAX30000
+INFO main com.sarm.lonelyplanet.process.DestinationProcessorTest - Successfully Parsed  : 36000 destinations ...
+INFO main com.sarm.lonelyplanet.process.DestinationProcessorTest -  Testing processDestinationsConcurrently
+INFO main com.sarm.lonelyplanet.process.DestinationProcessorTest - Testing testJAXBContext 
+INFO main com.sarm.lonelyplanet.process.DestinationProcessorTest - Testing processDestinationByStAX
+INFO main com.sarm.lonelyplanet.process.DestinationProcessorTest - parsing  .//test//sampleDestinations1.xml
+INFO main com.sarm.lonelyplanet.process.DestinationProcessorTest - Successfully Parsed  : 4 destinations ...
+INFO main com.sarm.lonelyplanet.process.DestinationProcessorTest - Tearing down DestinationProcessorTest and deleting the 30000dests.xml file and .//Testhtml//  folder
+INFO main com.sarm.lonelyplanet.process.LPUnMarshallerTest - LPUnMarshallerTest : Commencing loading test properties ...
+INFO main com.sarm.lonelyplanet.process.LPUnMarshallerTest -  Testing LPUnmarshaller startProcess
+DEBUG main com.sarm.lonelyplanet.process.LPUnMarshaller - Processing Taxonomy ... 
+DEBUG main com.sarm.lonelyplanet.process.LPUnMarshaller - Processing Taxonomy ... Done with 1 Nodes in Taxonomy
+DEBUG main com.sarm.lonelyplanet.process.LPUnMarshaller - Processing Destinations ... 
+DEBUG main com.sarm.lonelyplanet.process.LPUnMarshaller - Processing Destinations ... Done with 4 destinations
+DEBUG main com.sarm.lonelyplanet.common.GeoUtils -  all.css created to new location   >>C:\JavaProjects\GitSVNRepo\LonelyPlanet\.\Testhtml\static\all.css
+INFO main com.sarm.lonelyplanet.process.LPUnMarshallerTest - Tearing down LPUnMarshallerTest and deleting  .//Testhtml//  folder
+INFO main com.sarm.lonelyplanet.process.TaxonomyProcessorTest - Taxonomy Processor Test : Commencing loading test properties ...
+INFO main com.sarm.lonelyplanet.process.TaxonomyProcessorTest - setParentalHierarchy
+INFO main com.sarm.lonelyplanet.process.TaxonomyProcessorTest - processTaxonomy
+INFO main com.sarm.lonelyplanet.process.LPUnMarshaller - GeoUtilsTest : Commencing loading test properties ...
+INFO main com.sarm.lonelyplanet.process.LPUnMarshaller -  Testing testCreateHtmlFromTemplate
+INFO main com.sarm.lonelyplanet.process.LPUnMarshaller -  Testing populateParents
+INFO main com.sarm.lonelyplanet.process.LPUnMarshaller -  Testing navigateIntoChildren
+INFO main com.sarm.lonelyplanet.process.LPUnMarshaller - Testing replaceSpaces
+INFO main com.sarm.lonelyplanet.process.LPUnMarshaller - Testing getNodeByDestinationTitle
+INFO main com.sarm.lonelyplanet.process.LPUnMarshaller - Tearing down GeoUtilsTest and deleting the sample_destination.html file
+INFO main com.sarm.lonelyplanet.process.DestinationProcessorTest - DestinationProcessorTest  Commencing loading test properties ...
+DEBUG main com.sarm.lonelyplanet.process.DestinationProcessorTest - Loading properties file   .//test.properties
+INFO main com.sarm.lonelyplanet.process.DestinationProcessorTest -  destinationList 36000
+DEBUG main com.sarm.lonelyplanet.process.DestinationProcessorTest - class org.eclipse.persistence.jaxb.JAXBContext
+INFO main com.sarm.lonelyplanet.process.DestinationProcessorTest - Successfully created regressDestinationfile .//30000dests.xml
+INFO main com.sarm.lonelyplanet.process.DestinationProcessorTest - Testing processDestinationByStAX30000
+INFO main com.sarm.lonelyplanet.process.DestinationProcessorTest - Successfully Parsed  : 36000 destinations ...
+INFO main com.sarm.lonelyplanet.process.DestinationProcessorTest -  Testing processDestinationsConcurrently
+INFO main com.sarm.lonelyplanet.process.DestinationProcessorTest - Testing processDestinationByStAX
+INFO main com.sarm.lonelyplanet.process.DestinationProcessorTest - parsing  .//test//sampleDestinations1.xml
+INFO main com.sarm.lonelyplanet.process.DestinationProcessorTest - Successfully Parsed  : 4 destinations ...
+INFO main com.sarm.lonelyplanet.process.DestinationProcessorTest - Testing testJAXBContext 
+INFO main com.sarm.lonelyplanet.process.DestinationProcessorTest - Tearing down DestinationProcessorTest and deleting the 30000dests.xml file and .//Testhtml//  folder
+INFO main com.sarm.lonelyplanet.process.LPUnMarshallerTest - LPUnMarshallerTest : Commencing loading test properties ...
+INFO main com.sarm.lonelyplanet.process.LPUnMarshallerTest -  Testing LPUnmarshaller startProcess
+DEBUG main com.sarm.lonelyplanet.process.LPUnMarshaller - Processing Taxonomy ... 
+DEBUG main com.sarm.lonelyplanet.process.LPUnMarshaller - Processing Taxonomy ... Done with 1 Nodes in Taxonomy
+DEBUG main com.sarm.lonelyplanet.process.LPUnMarshaller - Processing Destinations ... 
+DEBUG main com.sarm.lonelyplanet.process.LPUnMarshaller - Processing Destinations ... Done with 4 destinations
+DEBUG main com.sarm.lonelyplanet.common.GeoUtils -  all.css created to new location   >>C:\JavaProjects\GitSVNRepo\LonelyPlanet\.\Testhtml\static\all.css
+INFO main com.sarm.lonelyplanet.process.LPUnMarshallerTest - Tearing down LPUnMarshallerTest and deleting  .//Testhtml//  folder
+INFO main com.sarm.lonelyplanet.process.TaxonomyProcessorTest - Taxonomy Processor Test : Commencing loading test properties ...
+INFO main com.sarm.lonelyplanet.process.TaxonomyProcessorTest - processTaxonomy
+INFO main com.sarm.lonelyplanet.process.TaxonomyProcessorTest - setParentalHierarchy
+INFO main com.sarm.lonelyplanet.process.LPUnMarshaller - GeoUtilsTest : Commencing loading test properties ...
+INFO main com.sarm.lonelyplanet.process.LPUnMarshaller - Testing getNodeByDestinationTitle
+INFO main com.sarm.lonelyplanet.process.LPUnMarshaller -  Testing navigateIntoChildren
+INFO main com.sarm.lonelyplanet.process.LPUnMarshaller -  Testing testCreateHtmlFromTemplate
+INFO main com.sarm.lonelyplanet.process.LPUnMarshaller -  Testing populateParents
+INFO main com.sarm.lonelyplanet.process.LPUnMarshaller - Testing replaceSpaces
+INFO main com.sarm.lonelyplanet.process.LPUnMarshaller - Tearing down GeoUtilsTest and deleting the sample_destination.html file
+INFO main com.sarm.lonelyplanet.process.DestinationProcessorTest - DestinationProcessorTest  Commencing loading test properties ...
+DEBUG main com.sarm.lonelyplanet.process.DestinationProcessorTest - Loading properties file   .//test.properties
+INFO main com.sarm.lonelyplanet.process.DestinationProcessorTest -  destinationList 36000
+DEBUG main com.sarm.lonelyplanet.process.DestinationProcessorTest - class org.eclipse.persistence.jaxb.JAXBContext
+INFO main com.sarm.lonelyplanet.process.DestinationProcessorTest - Successfully created regressDestinationfile .//30000dests.xml
+INFO main com.sarm.lonelyplanet.process.DestinationProcessorTest - Testing testJAXBContext 
+INFO main com.sarm.lonelyplanet.process.DestinationProcessorTest - Testing processDestinationByStAX
+INFO main com.sarm.lonelyplanet.process.DestinationProcessorTest - parsing  .//test//sampleDestinations1.xml
+INFO main com.sarm.lonelyplanet.process.DestinationProcessorTest - Successfully Parsed  : 4 destinations ...
+INFO main com.sarm.lonelyplanet.process.DestinationProcessorTest - Testing processDestinationByStAX30000
+INFO main com.sarm.lonelyplanet.process.DestinationProcessorTest - Successfully Parsed  : 36000 destinations ...
+INFO main com.sarm.lonelyplanet.process.DestinationProcessorTest -  Testing processDestinationsConcurrently
+INFO main com.sarm.lonelyplanet.process.DestinationProcessorTest - Tearing down DestinationProcessorTest and deleting the 30000dests.xml file and .//Testhtml//  folder
+INFO main com.sarm.lonelyplanet.process.LPUnMarshallerTest - LPUnMarshallerTest : Commencing loading test properties ...
+INFO main com.sarm.lonelyplanet.process.LPUnMarshallerTest -  Testing LPUnmarshaller startProcess
+DEBUG main com.sarm.lonelyplanet.process.LPUnMarshaller - Processing Taxonomy ... 
+DEBUG main com.sarm.lonelyplanet.process.LPUnMarshaller - Processing Taxonomy ... Done with 1 Nodes in Taxonomy
+DEBUG main com.sarm.lonelyplanet.process.LPUnMarshaller - Processing Destinations ... 
+DEBUG main com.sarm.lonelyplanet.process.LPUnMarshaller - Processing Destinations ... Done with 4 destinations
+DEBUG main com.sarm.lonelyplanet.common.GeoUtils -  all.css created to new location   >>C:\JavaProjects\GitSVNRepo\LonelyPlanet\.\Testhtml\static\all.css
+INFO main com.sarm.lonelyplanet.process.LPUnMarshallerTest - Tearing down LPUnMarshallerTest and deleting  .//Testhtml//  folder
+INFO main com.sarm.lonelyplanet.process.TaxonomyProcessorTest - Taxonomy Processor Test : Commencing loading test properties ...
+INFO main com.sarm.lonelyplanet.process.TaxonomyProcessorTest - setParentalHierarchy
+INFO main com.sarm.lonelyplanet.process.TaxonomyProcessorTest - processTaxonomy
+INFO main com.sarm.lonelyplanet.process.LPUnMarshaller - GeoUtilsTest : Commencing loading test properties ...
+INFO main com.sarm.lonelyplanet.process.LPUnMarshaller - Testing replaceSpaces
+INFO main com.sarm.lonelyplanet.process.LPUnMarshaller -  Testing testCreateHtmlFromTemplate
+INFO main com.sarm.lonelyplanet.process.LPUnMarshaller -  Testing populateParents
+INFO main com.sarm.lonelyplanet.process.LPUnMarshaller -  Testing navigateIntoChildren
+INFO main com.sarm.lonelyplanet.process.LPUnMarshaller - Testing getNodeByDestinationTitle
+INFO main com.sarm.lonelyplanet.process.LPUnMarshaller - Tearing down GeoUtilsTest and deleting the sample_destination.html file
+INFO main com.sarm.lonelyplanet.process.DestinationProcessorTest - DestinationProcessorTest  Commencing loading test properties ...
+DEBUG main com.sarm.lonelyplanet.process.DestinationProcessorTest - Loading properties file   .//test.properties
+INFO main com.sarm.lonelyplanet.process.DestinationProcessorTest -  destinationList 36000
+DEBUG main com.sarm.lonelyplanet.process.DestinationProcessorTest - class org.eclipse.persistence.jaxb.JAXBContext
+INFO main com.sarm.lonelyplanet.process.DestinationProcessorTest - Successfully created regressDestinationfile .//30000dests.xml
+INFO main com.sarm.lonelyplanet.process.DestinationProcessorTest - Testing processDestinationByStAX30000
+INFO main com.sarm.lonelyplanet.process.DestinationProcessorTest - Successfully Parsed  : 36000 destinations ...
+INFO main com.sarm.lonelyplanet.process.DestinationProcessorTest -  Testing processDestinationsConcurrently
+INFO main com.sarm.lonelyplanet.process.DestinationProcessorTest - Testing testJAXBContext 
+INFO main com.sarm.lonelyplanet.process.DestinationProcessorTest - Testing processDestinationByStAX
+INFO main com.sarm.lonelyplanet.process.DestinationProcessorTest - parsing  .//test//sampleDestinations1.xml
+INFO main com.sarm.lonelyplanet.process.DestinationProcessorTest - Successfully Parsed  : 4 destinations ...
+INFO main com.sarm.lonelyplanet.process.DestinationProcessorTest - Tearing down DestinationProcessorTest and deleting the 30000dests.xml file and .//Testhtml//  folder
+INFO main com.sarm.lonelyplanet.process.LPUnMarshallerTest - LPUnMarshallerTest : Commencing loading test properties ...
+INFO main com.sarm.lonelyplanet.process.LPUnMarshallerTest -  Testing LPUnmarshaller startProcess
+DEBUG main com.sarm.lonelyplanet.process.LPUnMarshaller - Processing Taxonomy ... 
+DEBUG main com.sarm.lonelyplanet.process.LPUnMarshaller - Processing Taxonomy ... Done with 1 Nodes in Taxonomy
+DEBUG main com.sarm.lonelyplanet.process.LPUnMarshaller - Processing Destinations ... 
+DEBUG main com.sarm.lonelyplanet.process.LPUnMarshaller - Processing Destinations ... Done with 4 destinations
+INFO main com.sarm.lonelyplanet.process.LPUnMarshallerTest - Tearing down LPUnMarshallerTest and deleting  .//Testhtml//  folder
+INFO main com.sarm.lonelyplanet.process.TaxonomyProcessorTest - Taxonomy Processor Test : Commencing loading test properties ...
+INFO main com.sarm.lonelyplanet.process.TaxonomyProcessorTest - setParentalHierarchy
+INFO main com.sarm.lonelyplanet.process.TaxonomyProcessorTest - processTaxonomy
+INFO main com.sarm.lonelyplanet.process.LPUnMarshaller - GeoUtilsTest : Commencing loading test properties ...
+INFO main com.sarm.lonelyplanet.process.LPUnMarshaller -  Testing navigateIntoChildren
+INFO main com.sarm.lonelyplanet.process.LPUnMarshaller -  Testing populateParents
+INFO main com.sarm.lonelyplanet.process.LPUnMarshaller -  Testing testCreateHtmlFromTemplate
+INFO main com.sarm.lonelyplanet.process.LPUnMarshaller - Testing getNodeByDestinationTitle
+INFO main com.sarm.lonelyplanet.process.LPUnMarshaller - Testing replaceSpaces
+INFO main com.sarm.lonelyplanet.process.LPUnMarshaller - Tearing down GeoUtilsTest and deleting the sample_destination.html file
+INFO main com.sarm.lonelyplanet.process.DestinationProcessorTest - DestinationProcessorTest  Commencing loading test properties ...
+DEBUG main com.sarm.lonelyplanet.process.DestinationProcessorTest - Loading properties file   .//test.properties
+INFO main com.sarm.lonelyplanet.process.DestinationProcessorTest -  destinationList 36000
+DEBUG main com.sarm.lonelyplanet.process.DestinationProcessorTest - class org.eclipse.persistence.jaxb.JAXBContext
+INFO main com.sarm.lonelyplanet.process.DestinationProcessorTest - Successfully created regressDestinationfile .//30000dests.xml
+INFO main com.sarm.lonelyplanet.process.DestinationProcessorTest - Testing processDestinationByStAX30000
+INFO main com.sarm.lonelyplanet.process.DestinationProcessorTest - Successfully Parsed  : 36000 destinations ...
+INFO main com.sarm.lonelyplanet.process.DestinationProcessorTest -  Testing processDestinationsConcurrently
+INFO main com.sarm.lonelyplanet.process.DestinationProcessorTest - Testing testJAXBContext 
+INFO main com.sarm.lonelyplanet.process.DestinationProcessorTest - Testing processDestinationByStAX
+INFO main com.sarm.lonelyplanet.process.DestinationProcessorTest - parsing  .//test//sampleDestinations1.xml
+INFO main com.sarm.lonelyplanet.process.DestinationProcessorTest - Successfully Parsed  : 4 destinations ...
+INFO main com.sarm.lonelyplanet.process.DestinationProcessorTest - Tearing down DestinationProcessorTest and deleting the 30000dests.xml file and .//Testhtml//  folder
+INFO main com.sarm.lonelyplanet.process.LPUnMarshallerTest - LPUnMarshallerTest : Commencing loading test properties ...
+INFO main com.sarm.lonelyplanet.process.LPUnMarshallerTest -  Testing LPUnmarshaller startProcess
+DEBUG main com.sarm.lonelyplanet.process.LPUnMarshaller - Processing Taxonomy ... 
+DEBUG main com.sarm.lonelyplanet.process.LPUnMarshaller - Processing Taxonomy ... Done with 1 Nodes in Taxonomy
+DEBUG main com.sarm.lonelyplanet.process.LPUnMarshaller - Processing Destinations ... 
+DEBUG main com.sarm.lonelyplanet.process.LPUnMarshaller - Processing Destinations ... Done with 4 destinations
+INFO main com.sarm.lonelyplanet.process.LPUnMarshallerTest - Tearing down LPUnMarshallerTest and deleting  .//Testhtml//  folder
+INFO main com.sarm.lonelyplanet.process.TaxonomyProcessorTest - Taxonomy Processor Test : Commencing loading test properties ...
+INFO main com.sarm.lonelyplanet.process.TaxonomyProcessorTest - setParentalHierarchy
+INFO main com.sarm.lonelyplanet.process.TaxonomyProcessorTest - processTaxonomy

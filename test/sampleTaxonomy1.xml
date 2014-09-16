@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<taxonomies>
+<taxonomy>
+<taxonomy_name>SampleForTest</taxonomy_name>
+<node atlas_node_id = "355629" ethyl_content_object_id="3263" geo_id = "355629">
+<node_name>Sudan</node_name>
+<node atlas_node_id = "355630" ethyl_content_object_id="" geo_id = "355630">
+<node_name>Eastern Sudan</node_name>
+<node atlas_node_id = "355631" ethyl_content_object_id="" geo_id = "355631">
+<node_name>Port Sudan</node_name>
+</node>
+</node>
+<node atlas_node_id = "355632" ethyl_content_object_id="" geo_id = "355632">
+<node_name>Khartoum</node_name>
+</node>
+</node>
+</taxonomy>
+</taxonomies>
