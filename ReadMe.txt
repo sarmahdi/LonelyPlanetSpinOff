@@ -1,3 +1,5 @@
+(This is a spin off from the actual lonelyPlanet batch application: Reason to Spin off is to learn Spring Batch and try using some more technologies)
+
 This is he LonelyPlanet destination Information creation. It generates static html files for each location in their destination list and contains different information for that location from the perspective of a traveller of what to expect and how to travel to that region. Some locations have more informations than the other.
 
 It takes three inputs
